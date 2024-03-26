@@ -88,7 +88,7 @@ header a:hover{
         rgb(0,0,0,0.5),
         rgb(0,0,0,0.5)
     )
-     url("");
+     ,url("media/herp.png");
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center center;
@@ -101,6 +101,7 @@ header a:hover{
 #somos-proya .container{
     text-align: center;
     padding: 200px 12px;
+
 }
 
 #nuestro-Programas{
@@ -135,7 +136,7 @@ header a:hover{
         rgb(0,0,0,0.5),
         rgb(0,0,0,0.5)
     )
-     url("");
+    , url("media/2.png");
 
 }
 .carta:nth-child(2){
@@ -144,7 +145,7 @@ header a:hover{
         rgb(0,0,0,0.5),
         rgb(0,0,0,0.5)
     )
-     url("");
+     ,url("media/2.png");
 
 }
 .carta:nth-child(3){
@@ -153,7 +154,7 @@ header a:hover{
         rgb(0,0,0,0.5),
         rgb(0,0,0,0.5)
     )
-     url(""); 
+     ,url("media/2.png"); 
 }
 
 #caracteristicas .container{
@@ -184,7 +185,7 @@ header a:hover{
 }
 
 footer{
-    background-color: black;
+    background-color: rgb(170, 161, 161);
 }
 
 footer p{
@@ -238,7 +239,7 @@ footer .container{
     }
 
     #somos-proya .img-conteiner{
-        background-image:url(""); 
+        background-image:url("media/somo.png"); 
          background-repeat: no-repeat;
          background-size: cover;
          background-position: center center;
@@ -275,7 +276,7 @@ footer .container{
             rgb(0,0,0,0.5),
             rgb(0,0,0,0.5)
         )
-         url("");
+         ,url("media/2.png");
     
     }
     .carta:nth-child(2){
@@ -284,7 +285,7 @@ footer .container{
             rgb(0,0,0,0.5),
             rgb(0,0,0,0.5)
         )
-         url("");
+         ,url("media/2.png");
     
     }
     .carta:nth-child(3){
@@ -293,11 +294,11 @@ footer .container{
             rgb(0,0,0,0.5),
             rgb(0,0,0,0.5)
         )
-         url(""); 
+         ,url("media/2.png"); 
     }
 
     #caracteristicas{
-        background-image: url("");
+        background-image: url("media/js.png");
         background-repeat: no-repeat;
         background-size: 500px 400px;
         background-position:calc(100vw - 700px) 120px ;
