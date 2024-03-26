@@ -1,17 +1,24 @@
 *{
     box-sizing: border-box;
 }
+<<<<<<< .merge_file_C9ylPS
 html{
     scroll-behavior: smooth;
 }
+=======
+
+>>>>>>> .merge_file_KnKHwJ
 h2{ font-size: 3.5rem}
 h2{ font-size: 2.7rem;}
 h3{ font-size: 2rem;}
 p{ font-size: 1.25rem;}
 ul{ list-style: none;}
+<<<<<<< .merge_file_C9ylPS
 li{ font-size: 1.25rem;}
 
 .color-acento{color: blueviolet;}
+=======
+>>>>>>> .merge_file_KnKHwJ
 
 body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -19,6 +26,7 @@ body{
 }
 
 button{
+<<<<<<< .merge_file_C9ylPS
     font-size: 20px;
     font-weight: bold;
     padding: 10px 40px;
@@ -324,4 +332,7 @@ footer .container{
     #caracteristicas{
         background-position: calc(100vw - 800px);
     }
+=======
+    
+>>>>>>> .merge_file_KnKHwJ
 }
